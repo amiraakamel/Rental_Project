@@ -8,4 +8,4 @@ This Java GUI application manages rental information and displays it in an invoi
 - **Generate Invoice:** Display the rental information in a formatted invoice on the screen.
 - **OOP Concepts:** Utilizes core OOP principles for a structured and maintainable codebase.
 
-[![Watch the video](https://www.youtube.com/watch?v=VIDEO_ID)](https://youtu.be/0heSEj_QN6Y)
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://youtu.be/0heSEj_QN6Y)" frameborder="0" allowfullscreen></iframe>
